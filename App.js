@@ -10,7 +10,6 @@ import { API_KEY } from 'react-native-dotenv'
 import * as Location from 'expo-location';
 
 const API_WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather?';
-const API_KEY = 'e2f03f0c201856c6281e31ebcaa49b22'
 
 export default function App() {
 
