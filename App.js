@@ -6,6 +6,7 @@ import Details from './components/Details';
 import Units from './components/Units';
 import Info from './components/Info';
 import Icons from './components/Icons';
+import { API_KEY } from 'react-native-dotenv'
 import * as Location from 'expo-location';
 
 const API_WEATHER_URL = 'https://api.openweathermap.org/data/2.5/weather?';
